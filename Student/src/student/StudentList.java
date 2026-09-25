@@ -16,5 +16,6 @@ public class StudentList {
         System.out.println(sList.get(0).getSName() + "\nID: " + 
             sList.get(1).getSID() + "\nGrade: " + 
             sList.get(2).getGrade() + "\n");
+        // This is an edit from git
     }
 }
