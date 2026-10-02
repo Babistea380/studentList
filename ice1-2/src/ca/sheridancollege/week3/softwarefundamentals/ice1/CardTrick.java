@@ -55,6 +55,7 @@ public class CardTrick {
                 //Or report the result here
                 System.out.println("\nCard is not in hand.");
             }
+            // change
         }
     }
 }
